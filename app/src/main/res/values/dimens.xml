@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_padding">16dp</dimen>
+    <dimen name="drawable_padding">5dp</dimen>
+    <dimen name="app_name_size">42sp</dimen>
+</resources>
